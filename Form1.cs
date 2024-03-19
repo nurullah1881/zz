@@ -18,7 +18,7 @@ namespace proje_1001
         }
 
         Random uret = new Random();
-        public string kullanici = "Admin", sifre = "1234";
+        public string kullanici, sifre;
         bool kayit = false;
         private void Form1_Load(object sender, EventArgs e)
         {

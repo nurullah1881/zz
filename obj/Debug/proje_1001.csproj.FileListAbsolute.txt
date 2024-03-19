@@ -1,0 +1,13 @@
+C:\Users\foaqen\source\repos\proje_1001\bin\Debug\proje_1001.exe.config
+C:\Users\foaqen\source\repos\proje_1001\bin\Debug\proje_1001.exe
+C:\Users\foaqen\source\repos\proje_1001\bin\Debug\proje_1001.pdb
+C:\Users\foaqen\source\repos\proje_1001\obj\Debug\proje_1001.csproj.AssemblyReference.cache
+C:\Users\foaqen\source\repos\proje_1001\obj\Debug\proje_1001.Form1.resources
+C:\Users\foaqen\source\repos\proje_1001\obj\Debug\proje_1001.Properties.Resources.resources
+C:\Users\foaqen\source\repos\proje_1001\obj\Debug\proje_1001.csproj.GenerateResource.cache
+C:\Users\foaqen\source\repos\proje_1001\obj\Debug\proje_1001.csproj.CoreCompileInputs.cache
+C:\Users\foaqen\source\repos\proje_1001\obj\Debug\proje_1001.exe
+C:\Users\foaqen\source\repos\proje_1001\obj\Debug\proje_1001.pdb
+C:\Users\foaqen\source\repos\proje_1001\obj\Debug\proje_1001.panel.resources
+C:\Users\foaqen\source\repos\proje_1001\obj\Debug\proje_1001.ekle.resources
+C:\Users\foaqen\source\repos\proje_1001\obj\Debug\proje_1001.stok.resources
